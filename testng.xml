@@ -22,7 +22,7 @@ under the License.
 <suite name="siddhi-distribution-test-suite">
     <test name="stream-processor-core" parallel="false" verbose="1">
         <classes>
-            <class name="Tedst1"/>
+            <class name="Test1"/>
         </classes>
     </test>
 </suite>
